@@ -2,11 +2,7 @@
   "name": "@bluebase/plugin-google-tag-manager",
   "description": "This plugin allows allows you manage and deploy marketing tags",
   "author": "BlueEast Team <code@blueeast.com>",
-<<<<<<< HEAD
-  "version": "0.0.1",
-=======
   "version": "1.0.0",
->>>>>>> 92979fc3c2027340d181afd24000ee9848c289d2
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "module": "dist/index.js",
